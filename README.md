@@ -2,4 +2,6 @@
 
 There were 3 most common masonay layout Design using only html and css
 
-CSS grid layout used
+CSS: Display Grid
+
+Tricks: Some mathmetical tricks used.
